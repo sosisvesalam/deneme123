@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "5514dcfef815db98ba60",
-    "url": "/deneme123/static/js/main.5514dcfe.chunk.js"
+    "revision": "60e45f566cc4fc7fe8ec",
+    "url": "/deneme123/static/js/main.60e45f56.chunk.js"
   },
   {
     "revision": "51e9c962af55a0401edf",
@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/deneme123/static/js/runtime~main.b1fbc152.js"
   },
   {
-    "revision": "875e3579b79028702c2186f5aa49c2a2",
+    "revision": "e33e245815385e79303dc039e27a51cf",
     "url": "/deneme123/index.html"
   }
 ];
